@@ -1,0 +1,33 @@
+body {
+    background-color:rgb(247, 231, 166);
+}
+
+h1 {
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.page-links {
+    text-align: center;
+}
+
+.page-links a { 
+    text-align: center;
+    margin: 0px 10px;
+    color: darkgreen;
+
+}
+
+.page-links a:visited {
+    color: darkgreen;
+}
+
+.croissant-image {
+    display: block;
+    margin: 30px auto;
+    border-radius: 10px;
+    
+}
